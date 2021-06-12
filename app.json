@@ -1,7 +1,7 @@
 {
-  "name": "ULTRA X",
-  "description": "THE SUPER USERBOT MADED BY TEAM LEGEND AND TEAM ULTRA MANY MODULES AND SUPER BOT; JOIN @UltraXChat FOR HELP ",
-  "logo": "https://telegra.ph/file/949acd88c4b9cd4f72485.jpg",
+  "name": "KING FIGHTER",
+  "description": "THE SUPER USERBOT MADED BY TEAM KING AND TEAM KING FIGHTER MANY MODULES AND SUPER BOT; JOIN @King_fighter_Bot_support FOR HELP ",
+  "logo": "https://telegra.ph/file/4e53ff41e9c37c89e71ae.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ULTRA-OP/HEROKU/",
-  "website": "https://github.com/ULTRA-OP/HEROKU/",
-  "success_url": "https://t.me/ULTRAXCHAT",
+  "repository": "https://github.com/Imteyazking/ULTRA-X/HEROKU/",
+  "website": "https://github.com/Imteyazking/ULTRA-X/HEROKU/",
+  "success_url": "https://t.me/King_fighter_Bot_supportT",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -28,7 +28,7 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @LEGENDX22.",
+      "description": "Fill your Full name or Username like @imteyaz_king.",
       "value": "",
       "required": false
     },
@@ -38,8 +38,8 @@
       "required": false
     },
     "ALIVE_PHOTTO": {
-      "description": "put here any telegraph media link use .awake to show.",
-      "value": "",
+      "description": "put here any telegraph media link use .awake to show. KING FIGHTER",
+      "value": "https://telegra.ph/file/4e53ff41e9c37c89e71ae.jpg",
       "required": false
     },
     "BIO_MSG": {
@@ -49,7 +49,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for pmpermit custom pic.",
-      "value": "",
+      "value": "https://telegra.ph/file/4e53ff41e9c37c89e71ae.jpg",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -111,7 +111,7 @@
       "required": false
     },
     "GIT_REPO_NAME": {
-      "description": "Your repo name Example: madboy482/ULTRA-X , but GITHUB_ACCESS_TOKEN must be setup first.",
+      "description": "Your repo name Example: madboy482/KINGFIGHTER , but GITHUB_ACCESS_TOKEN must be setup first.",
       "value": "",
       "required": false
     },
@@ -153,7 +153,7 @@
       "required": false
     },
     "ONLINE_ALERT": {
-      "description": "Set it True for being informed by the Assistant Bot that UltraX is now working. Preferred and By-Default is True",
+      "description": "Set it True for being informed by the Assistant Bot that KING FIGHTER is now working. Preferred and By-Default is True",
       "value": "True",
       "required": true
     },
