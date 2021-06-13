@@ -1,7 +1,7 @@
 {
-  "name": "ULTRA X",
+  "name": "KING FIGHTER",
   "description": "THE SUPER USERBOT MADED BY TEAM LEGEND AND TEAM ULTRA MANY MODULES AND SUPER BOT; JOIN @UltraXChat FOR HELP ",
-  "logo": "https://telegra.ph/file/949acd88c4b9cd4f72485.jpg",
+  "logo": "https://telegra.ph/file/bd545d20b8e7e436f414c.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/ULTRA-OP/HEROKU/",
-  "website": "https://github.com/ULTRA-OP/HEROKU/",
-  "success_url": "https://t.me/ULTRAXCHAT",
+  "repository": "https://github.com/Imteyazking/ULTRA-X/HEROKU/",
+  "website": "https://github.com/Imteyazking/ULTRA-X/HEROKU/",
+  "success_url": "https://t.me/King_fighter_Bot_support",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
